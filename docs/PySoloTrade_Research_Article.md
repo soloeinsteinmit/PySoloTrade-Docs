@@ -1,4 +1,4 @@
-**PySoloTrade: Unifying Fintech Tools for Enhanced Innovation and the Development of Intelligent Agents**
+# **PySoloTrade: Unifying Fintech Tools for Enhanced Innovation and the Development of Intelligent Agents**
 
 _by_ **Solomon Eshun**  
 17th April, 2025
